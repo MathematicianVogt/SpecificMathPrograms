@@ -3,7 +3,8 @@ import numpy
 import math
 #Author Ryan Vogt
 #Computer Science and Applied Mathematics major at RIT
-#Program to solve the simple situation xn+1=max((A/(xn*xn-1)),(B/(xn-1)) 
+#Program to solve the simple situation xn+1=max((A/(xn*xn-1)),(B/(xn-1))
+#Future Euler of the Wrold 
 class DifferenceEquationSimple():
 	
 
